@@ -1,3 +1,7 @@
+:root {
+  --backgroundColor: red !important;
+}
+
 body {
     background-color: red !important;
 }
