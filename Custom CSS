@@ -5,3 +5,7 @@
 body {
     background-color: red !important;
 }
+
+.section {
+  background-color: red !important;
+}
