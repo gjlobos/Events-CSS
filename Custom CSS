@@ -1,3 +1,3 @@
-div.event-name[_ngcontent-hap-c193] {
-  color: #FF0000 !important;
+:root {
+  --surfaceTextColor: #FF0000 !important;
 }
